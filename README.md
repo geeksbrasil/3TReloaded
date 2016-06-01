@@ -1,11 +1,11 @@
 # 3TReloaded
 ##Linux
 <!-- ###Download
-###<a href="https://github.com/rafael59r2/3TReloaded/releases/download/1.1/3TReloaded-linux32.exe">32 bits</a>
-###<a href="https://github.com/rafael59r2/3TReloaded/releases/download/1.1/3TReloaded-linux64.exe">64 bits</a>
+###<a href="https://github.com/geeksbrasil/releases/download/1.1/3TReloaded-linux32.exe">32 bits</a>
+###<a href="https://github.com/geeksbrasil/3TReloaded/releases/download/1.1/3TReloaded-linux64.exe">64 bits</a>
 -->
 ###compile
-<pre><code>git clone https://github.com/rafael59r2/3TReloaded.git</code></pre>
+<pre><code>git clone https://github.com/geeksbrasil/3TReloaded.git</code></pre>
 
 ###1. Change Directory
 <pre><code>cd 3TReloaded</code></pre>
